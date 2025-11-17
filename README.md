@@ -22,14 +22,15 @@ cd NomeDoSeuRepositorio
 
 Bash
 
-# Cria o ambiente virtual
+#Cria o ambiente virtual
 python -m venv venv
 
-# Ativa o ambiente virtual (Windows)
+#Ativa o ambiente virtual (Windows)
 .\venv\Scripts\activate
 
-# Ativa o ambiente virtual (macOS/Linux)
-# source venv/bin/activate
+#Ativa o ambiente virtual (macOS/Linux)
+#source venv/bin/activate
+
 2. Instalação das Dependências
 Instale as bibliotecas necessárias:
 
