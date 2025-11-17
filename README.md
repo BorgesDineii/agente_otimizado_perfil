@@ -1,5 +1,5 @@
-💼 Agente de Otimização de Perfil com Engenharia de Prompt
-Descrição do Projeto
+# 💼 Agente de Otimização de Perfil com Engenharia de Prompt
+##Descrição do Projeto
 Este projeto demonstra a aplicação prática da Engenharia de Prompt para criar um agente de IA especializado. O Agente de Otimização de Perfil atua como um Recrutador Sênior, analisando textos (como a seção "Sobre" do LinkedIn ou descrições de experiência) e fornecendo feedback estruturado para aprimoramento.
 
 Utilizamos a biblioteca Streamlit para construir uma interface de usuário rápida e funcional e a API do Gemini (Google AI) para o processamento de linguagem natural, aplicando técnicas avançadas como o Chain-of-Thought (CoT) no System Prompt para garantir uma análise crítica e de alta qualidade.
