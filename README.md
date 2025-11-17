@@ -4,18 +4,18 @@ Este projeto demonstra a aplicação prática da Engenharia de Prompt para criar
 
 Utilizamos a biblioteca Streamlit para construir uma interface de usuário rápida e funcional e a API do Gemini (Google AI) para o processamento de linguagem natural, aplicando técnicas avançadas como o Chain-of-Thought (CoT) no System Prompt para garantir uma análise crítica e de alta qualidade.
 
-Pré-requisitos
+# Pré-requisitos
 Para rodar este agente localmente, você precisará ter o Python (versão 3.8+) instalado em sua máquina e uma Chave de API do Gemini.
 
-Chave de API do Gemini: Obtenha sua chave gratuitamente no Google AI Studio.
+1. Chave de API do Gemini: Obtenha sua chave gratuitamente no Google AI Studio.
 
-Clone o Repositório:
+2. Clone o Repositório:
 
 Bash
 
 git clone https://github.com/SeuUsuario/NomeDoSeuRepositorio.git
 cd NomeDoSeuRepositorio
-🛠️ Instalação e Configuração
+# 🛠️ Instalação e Configuração
 1. Ambiente Virtual (Recomendado)
 É uma boa prática criar um ambiente virtual para isolar as dependências do projeto:
 
