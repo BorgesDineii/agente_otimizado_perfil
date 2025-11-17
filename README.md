@@ -16,7 +16,8 @@ Para rodar este agente localmente, você precisará ter o **Python (versão 3.8+
 
 ```bash
 git clone https://github.com/SeuUsuario/NomeDoSeuRepositorio.git
-cd NomeDoSeuRepositorio
+cd NomeDoSeuRepositorio```
+
 🛠️ Instalação e Configuração
 1. Ambiente Virtual (Recomendado)
 É uma boa prática criar um ambiente virtual para isolar as dependências do projeto:
