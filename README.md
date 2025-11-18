@@ -11,7 +11,7 @@ Utilizamos a biblioteca Streamlit para construir uma interface de usuário rápi
 
 Para rodar este agente localmente, você precisará ter o Python (versão 3.8+) instalado em sua máquina e uma Chave de API do Gemini.
 
-Chave de API do Gemini: Obtenha sua chave gratuitamente no Google AI Studio.
+Chave de API do Gemini: Obtenha sua chave gratuitamente no Google AI Studio https://ai.google.dev/.
 
 Clone o Repositório:
 
