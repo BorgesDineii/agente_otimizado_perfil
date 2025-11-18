@@ -1,20 +1,20 @@
-💼 Agente de Otimização de Perfil com Engenharia de Prompt
+\# 💼 Agente de Otimização de Perfil com Engenharia de Prompt
 
-Descrição do Projeto
+\## Descrição do Projeto
 
-Este projeto demonstra a aplicação prática da Engenharia de Prompt para criar um agente de IA especializado. O Agente de Otimização de Perfil atua como um Recrutador Sênior, analisando textos (como a seção "Sobre" do LinkedIn ou descrições de experiência) e fornecendo feedback estruturado para aprimoramento.
+Este projeto demonstra a aplicação prática da \*\*Engenharia de Prompt\*\* para criar um agente de IA especializado. O \*\*Agente de Otimização de Perfil\*\* atua como um Recrutador Sênior, analisando textos (como a seção "Sobre" do LinkedIn ou descrições de experiência) e fornecendo \*feedback\* estruturado para aprimoramento.
 
-Utilizamos a biblioteca Streamlit para construir uma interface de usuário rápida e funcional e a API do Gemini (Google AI) para o processamento de linguagem natural, aplicando técnicas avançadas como o Chain-of-Thought (CoT) no System Prompt para garantir uma análise crítica e de alta qualidade.
+Utilizamos a biblioteca \*\*Streamlit\*\* para construir uma interface de usuário rápida e funcional e a \*\*API do Gemini (Google AI)\*\* para o processamento de linguagem natural, aplicando técnicas avançadas como o \*\*Chain-of-Thought (CoT)\*\* no \*System Prompt\* para garantir uma análise crítica e de alta qualidade.
 
-Pré-requisitos
+\## Pré-requisitos
 
-Para rodar este agente localmente, você precisará ter o Python (versão 3.8+) instalado em sua máquina e uma Chave de API do Gemini.
+Para rodar este agente localmente, você precisará ter o \*\*Python (versão 3.8+)\*\* instalado em sua máquina e uma \*\*Chave de API do Gemini\*\*.
 
-Chave de API do Gemini: Obtenha sua chave gratuitamente no Google AI Studio.
+* \*\*Chave de API do Gemini:\*\* Obtenha sua chave gratuitamente no [Google AI Studio](https://ai.google.dev/).
 
-Clone o Repositório:
+\### Clone o Repositório:
 
-Bash
+\```bash
 
 git clone https://github.com/SeuUsuario/NomeDoSeuRepositorio.git
 
@@ -38,15 +38,15 @@ python -m venv venv
 
 \# Ativa o ambiente virtual (macOS/Linux)
 
-\# source venv/bin/activate
+source venv/bin/activate
 
 1. Instalação das Dependências
 
-Instale as bibliotecas necessárias:
+Instale as bibliotecas necessárias usando o arquivo requirements.txt:
 
 Bash
 
-pip install streamlit google-genai
+pip install -r requirements.txt
 
 1. Configuração da Chave de API
 
