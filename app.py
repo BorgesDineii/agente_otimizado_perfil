@@ -3,7 +3,7 @@ import os
 from google import genai
 from google.genai.errors import APIError 
  
-api_key = "xxxxxxxxx" 
+api_key = "xxxxxxxxxx" 
 
 try:
     client = genai.Client(api_key=api_key)
